@@ -1,5 +1,5 @@
 # Xurp
-A game that I designed with the aim of creating a fun gameplay that only uses one button.
+A game that I designed with the aim of creating a fun game that only uses one button.
 
 You can play it from here!
 
